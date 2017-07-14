@@ -1,4 +1,4 @@
-# Blueprints and Hexagons
+# The Wedding Ritual
 
 This talk was first given at Lean Agile Glasgow, on December 14th 2016.
 
